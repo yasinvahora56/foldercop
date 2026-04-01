@@ -1,4 +1,4 @@
-# FolderPop
+# FolderCop
 
 FolderPop is a fast Windows search and quick-launch utility designed for instant file and folder access.
 Built with Rust and Tauri for performance, reliability, and low resource usage.
@@ -17,7 +17,7 @@ Built with Rust and Tauri for performance, reliability, and low resource usage.
 
 Download the latest version from Releases:
 
-https://github.com/rahil1202/folderpop/releases
+https://github.com/yasinvahora56/foldercop/releases
 
 Available builds:
 
@@ -49,7 +49,7 @@ FolderPop checks for updates automatically and installs signed releases securely
 Found a bug or want a feature?
 
 Open an issue here:
-https://github.com/rahil1202/folderpop/issues
+https://github.com/yasinvahora56/foldercop/issues
 
 ## Security
 
