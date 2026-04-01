@@ -1,6 +1,6 @@
 # FolderCop
 
-FolderPop is a fast Windows search and quick-launch utility designed for instant file and folder access.
+FolderCop is a fast Windows search and quick-launch utility designed for instant file and folder access.
 Built with Rust and Tauri for performance, reliability, and low resource usage.
 
 ## Highlights
@@ -30,19 +30,19 @@ Available builds:
 
 1. Download the latest `.exe`
 2. Run the installer
-3. Launch FolderPop
+3. Launch FolderCop
 
 ### Portable
 
 1. Download `.zip`
 2. Extract anywhere
-3. Run `FolderPop.exe`
+3. Run `FolderCop.exe`
 
 No installation required.
 
 ## Auto Updates
 
-FolderPop checks for updates automatically and installs signed releases securely.
+FolderCop checks for updates automatically and installs signed releases securely.
 
 ## Issues & Feedback
 
